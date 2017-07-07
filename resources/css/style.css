@@ -16,7 +16,7 @@ H2 {
 }
 
 H3 {
-  font-size: 23;
+  font-size: 23px;
   font-weight: bold;
 }
 
@@ -25,18 +25,20 @@ H3 {
   color: white;
 }
 
-.leftalign {
-  text-align: left;
-}
 
 .copyright {
+  text-align: left;
   font-size: 11px;
   color: white;
   background-color: dimgray;
 }
 
-#top {
+.pic {
   background-image: url('../images/the-flatiron-building.png');
+}
+
+.white {
+  color:white;
 }
 
 a:link {
